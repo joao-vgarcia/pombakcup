@@ -1,0 +1,20 @@
+.conter{/* Classe do background azul */
+    background-color: #3490dc;
+    color:white;
+    border-radius: 5px;
+    
+}
+
+.h1titulo{ /*Classe para titulos*/
+    text-align: center;
+}
+
+.botaobusca{/*Classe do botão de busca  
+    Se precisar de alteração de cor e tamanho no botão deve ser feitas aqui*/
+    border-radius: 15px;
+    height: 60px;
+    position: relative;
+    background-color: #32329C;
+    color: white;
+    font-size: 30px;
+}
